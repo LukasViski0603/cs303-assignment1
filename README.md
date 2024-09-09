@@ -17,3 +17,4 @@ The program reads data from a file named "A1input.txt". If the array is empty or
 - The program assumes valid integer inputs from the user.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/79470e0d-2eb9-4445-8ad2-e675cd472c0c)
